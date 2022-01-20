@@ -1,2 +1,17 @@
 ### Hi! im Geovanna 👋
-🌱 I’m currently learning Web development 
+🌱 I’m currently learning Web development
+
+<div align="corner">
+  <a href="https://github.com/Geovanna-Martins-Cabral-da-Silva ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Martins-Cabral-da-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanna-Martins-Cabral-da-Silva&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  <div style="display: inline_block"><br>
+  <img align="top" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="top" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="corner" alt="Rafa-pic" height="180" style="border-radius:60px;" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
+</div>
+  
+##
