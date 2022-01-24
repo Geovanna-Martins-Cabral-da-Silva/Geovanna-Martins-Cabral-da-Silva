@@ -2,9 +2,9 @@
 🌱 I’m currently learning Web development
 
 <div align="corner">
-  <a href="https://github.com/Geovanna-Martins-Cabral-da-Silva ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Martins-Cabral-da-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Martins-Cabral-da-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 </div>
 
   ## **Minhas Linguagens e Frameworks**
